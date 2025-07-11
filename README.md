@@ -5,7 +5,7 @@
 This project showcases how to build and deploy a **three-tier cloud infrastructure** on **Amazon Web Services (AWS)** using **Terraform modules**. It adopts best practices of Infrastructure as Code (IaC) to ensure the infrastructure is **modular**, **scalable**, and **secure**.
 
 ---
-
+![](https://github.com/gaurav3972/3-Tier-Cloud-Deployment-via-Terraform-Modules-1/blob/main/Photos/terraform%20main.png)
 ## 📊 Project Summary/Overview
 
 This architecture implements the widely used **three-tier design pattern**, separating resources into the **Web Tier**, **Application Tier**, and **Database Tier**. Each tier is:

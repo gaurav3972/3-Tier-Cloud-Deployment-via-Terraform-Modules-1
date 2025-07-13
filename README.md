@@ -110,6 +110,8 @@ Each tier is:
 
 ```bash
 git clone https://github.com/gaurav3972/3-tier-Deployment-via-terraform-modules-1.git
+```
+```
 cd 3-tier-terraform
 ```
 

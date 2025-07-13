@@ -496,7 +496,7 @@ variable "security_group_id" {}
 
 ```bash
 # Clone the repository
-git clone https://github.com/Swatiz-cloud/3-tier-terraform-modules.git
+git clone https://github.com/gaurav3972/3-tier-Deployment-via-terraform-modules-1.git
 cd 3-tier-terraform
 
 # Configure variable values in terraform.tfvars
@@ -571,5 +571,6 @@ Here are some ideas to improve and scale the infrastructure in the future:
 
 ---
 ## ✅ Final Thoughts
-This project delivers a robust, modular, and secure AWS environment built with Terraform. It establishes a solid foundation for deploying production-grade applications, with ample flexibility to scale, automate, and integrate into modern DevOps workflows effortlessly.#   3 - T i e r - C l o u d - D e p l o y m e n t - v i a - T e r r a f o r m - M o d u l e s - 1  
+This project delivers a robust, modular, and secure AWS environment built with Terraform. It establishes a solid foundation for deploying production-grade applications, with ample flexibility to scale, automate, and integrate into modern DevOps workflows effortlessly.#   3 - T i e r - C l o u d - D e p l o y m e n t - v i a - T e r r a f o r m - M o d u l e s - 1 
+ 
  
